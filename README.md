@@ -1,5 +1,9 @@
-# AppKZTeam
+# Sobre el proyecto
+Encargo para la fase final de seleccion para el cargo de Practicante a Dev Móvil. 
+Se tomo como guia para el desarrollo de este encargo los enlaces publicados en el archivo votes.component.ts principalmente FAZ BLOG.
+Falto desarrollar mas la aplicacion, sobre todo la parte de autentificacion de usuarios y las restricciones que esto significaba toda vez que hubo fallas y confusion con el BackEnd por lo que no se pudo generar una conexion segura. 
 
+## AppKZTeam
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 ## Development server
